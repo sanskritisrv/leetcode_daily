@@ -33,6 +33,6 @@ Feel free to open an issue or submit a pull request.
 
 ## 📚 Useful Links
 
-- My LeetCode Profile: https://leetcode.com/u/sanskriti_2408/   (Replace with your profile link)
+- My LeetCode Profile: https://leetcode.com/u/sanskriti_2408/   
 
 Happy Coding! 💻
